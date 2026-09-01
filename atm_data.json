@@ -1,0 +1,25 @@
+{
+    "customer_name": "Priya Raman",
+    "pin": "1234",
+    "balance": 9800.0,
+    "history": [
+        "Deposited Rs. 500",
+        "Deposited Rs. 23",
+        "Withdrew Rs. 45",
+        "Deposited Rs. 5567",
+        "Deposited Rs. 250",
+        "Deposited Rs. 350",
+        "Withdrew Rs. 350",
+        "Deposited Rs. 2",
+        "Withdrew Rs. 350",
+        "Withdrew Rs. 947",
+        "Deposited Rs. 500",
+        "Withdrew Rs. 250",
+        "Deposited Rs. 350",
+        "Withdrew Rs. 600",
+        "Deposited Rs. 250",
+        "Withdrew Rs. 350",
+        "Withdrew Rs. 450",
+        "Deposited Rs. 350"
+    ]
+}
